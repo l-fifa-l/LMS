@@ -1,0 +1,12 @@
+.square {
+  width: 100%;
+  height: 20rem;
+}
+.jumbotron {
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: white;
+}
+
+.pointer {
+  cursor: pointer;
+}
